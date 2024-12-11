@@ -27,7 +27,7 @@ A bar graph visualizes the total ad expenditure per state.
 
 - **Key Finding**: Larger states like Uttar Pradesh, Maharashtra, and Odisha dominate ad spend.
 
-![Visualization](path/to/image.png)
+
 
 ---
 
@@ -36,7 +36,6 @@ A bar chart shows the average voter turnout percentage for each state.
 
 - **Key Finding**: Smaller states like Lakshadweep and Tripura have higher voter engagement compared to larger states.
 
-![Visualization](path/to/image.png)
 
 ---
 
@@ -45,7 +44,6 @@ A pie chart highlights the distribution of ad spend among political parties.
 
 - **Key Finding**: BJP dominates ad spending with 42.3% of the total.
 
-![Visualization](path/to/image.png)
 
 ---
 
@@ -54,7 +52,6 @@ A scatter plot reveals no significant correlation between ad spend and voter tur
 
 - **Key Finding**: Increased ad spending does not directly boost voter turnout.
 
-![Visualization](path/to/image.png)
 
 ---
 
@@ -63,7 +60,6 @@ A histogram displays the distribution of ad expenditures across constituencies.
 
 - **Key Finding**: Most constituencies have ad spend between 50M and 100M INR, with a few outliers.
 
-![Visualization](path/to/image.png)
 
 ---
 
@@ -72,7 +68,6 @@ A combined bar and line chart compares ad spending and voter turnout by election
 
 - **Key Finding**: Phases with high ad spend do not consistently have higher voter turnout.
 
-![Visualization](path/to/image.png)
 
 ---
 
@@ -106,7 +101,7 @@ A combined bar and line chart compares ad spending and voter turnout by election
 ## 📢 Contact
 For questions or collaborations, feel free to reach out:
 - **Email**: yalagandulababyramya@gmail.com
-- **GitHub**: [yourusername]([https://github.com/yourusername])
+- **GitHub**:https://github.com/YBABYRAMYA
 
 ---
 
