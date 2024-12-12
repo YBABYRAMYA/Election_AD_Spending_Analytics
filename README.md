@@ -1,11 +1,11 @@
-# 🌐 Elections Ad Spending Analysis India 2024
+# 🌐 Elections Ad Spending Analysis India 2024 🌐
 
-## 📊 Project Overview
+## 📊 Project Overview 📊
 This project analyzes the ad spending and voter engagement patterns during the 2024 Indian elections. Using Python and Plotly, the data is visualized to uncover insights about the correlation between ad expenditures, voter turnout, and regional variations.
 
 ---
 
-## 🗃 Dataset Information
+## 🗃 Dataset Information 🗃
 The project uses the following datasets:
 1. **results.csv**: Contains details of election results by state and parliamentary constituency.
 2. **advertisers.csv**: Provides information about political parties’ ad spends.
@@ -13,14 +13,14 @@ The project uses the following datasets:
 
 ---
 
-## 🔧 Tools & Libraries Used
+## 🔧 Tools & Libraries Used 🔧
 - **Pandas** 🥦: Data manipulation and analysis
 - **NumPy** ⚖️: Numerical computations
 - **Plotly** 🎨: Interactive visualizations
 
 ---
 
-## 🔍 Key Insights
+## 🔍 Key Insights 🔍
 
 ### 🔹 Total Ad Spend by State
 A bar graph visualizes the total ad expenditure per state.
@@ -78,7 +78,7 @@ A combined bar and line chart compares ad spending and voter turnout by election
 
 ---
 
-## 🔧 How to Use This Project
+## 🔧 How to Use This Project 🔧
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/elections-ad-analysis.git
@@ -98,12 +98,12 @@ A combined bar and line chart compares ad spending and voter turnout by election
 
 ---
 
-## 📢 Contact
+## 📢 Contact 📢
 For questions or collaborations, feel free to reach out:
 - **Email**: yalagandulababyramya@gmail.com
 - **GitHub**:https://github.com/YBABYRAMYA
 
 ---
 
-🙌 Happy Analyzing!
+🙌 Happy Analyzing! 🙌
 
